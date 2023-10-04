@@ -1,0 +1,11 @@
+is_global = true
+build_property.TargetFramework = net6.0
+build_property.TargetPlatformMinVersion = 
+build_property.UsingMicrosoftNETSdkWeb = 
+build_property.ProjectTypeGuids = 
+build_property.InvariantGlobalization = 
+build_property.PlatformNeutralAssembly = 
+build_property.EnforceExtendedAnalyzerRules = 
+build_property._SupportedPlatformList = Linux,macOS,Windows
+build_property.RootNamespace = LC_0028_FindIndexFirstOccString
+build_property.ProjectDir = J:\Files\Working\Repos\LeetCode\lc-0028-find-index-first-occ-string-cs\LC-0028-FindIndexFirstOccString\LC-0028-FindIndexFirstOccString\

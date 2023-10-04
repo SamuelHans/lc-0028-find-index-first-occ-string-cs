@@ -1,0 +1,23 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v6.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v6.0": {
+      "LC-0028-FindIndexFirstOccString/1.0.0": {
+        "runtime": {
+          "LC-0028-FindIndexFirstOccString.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "LC-0028-FindIndexFirstOccString/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}
